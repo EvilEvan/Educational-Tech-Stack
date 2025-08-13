@@ -1,0 +1,49 @@
+# Educational Tech Stack - Python Requirements
+# Core programming and data science packages for the curriculum
+
+# Web Development
+flask==2.3.3
+django==4.2.5
+requests==2.31.0
+beautifulsoup4==4.12.2
+
+# Data Science and Analytics
+pandas==2.1.1
+numpy==1.24.3
+matplotlib==3.7.2
+seaborn==0.12.2
+jupyter==1.0.0
+plotly==5.16.1
+
+# Machine Learning
+scikit-learn==1.3.0
+tensorflow==2.13.0
+torch==2.0.1
+
+# Development Tools
+pytest==7.4.2
+black==23.7.0
+flake8==6.0.0
+mypy==1.5.1
+
+# Database
+sqlite3  # Built into Python
+pymongo==4.5.0
+
+# Cloud and DevOps
+boto3==1.28.57  # AWS SDK
+azure-storage-blob==12.17.0  # Azure SDK
+
+# Utility Libraries
+python-dotenv==1.0.0
+click==8.1.7
+pillow==10.0.0
+schedule==1.2.0
+
+# Testing and Quality
+coverage==7.3.1
+bandit==1.7.5
+
+# Documentation
+sphinx==7.2.6
+mkdocs==1.5.3
